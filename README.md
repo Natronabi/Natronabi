@@ -12,7 +12,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider">
 <br><br>
-
 <!-- 3. Git Bonsai (Dinamik Büyüyen Ağaç) -->
 <a href="https://github.com/egorthinks/git-bonsai">
   <img src="output/bonsai-growth.gif" width="384" alt="My GitHub Bonsai" />
@@ -40,15 +39,7 @@
 <!-- 7. İstatistikler Başlığı -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=GITHUB+STATS" alt="Stats Header" />
 <br>
-
 <!-- 8. İstatistikler ve Diller -->
-<a href="https://github.com/Natronabi">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natronabi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</a>
-<br><br>
-<a href="https://github.com/Natronabi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natronabi&layout=compact&theme=tokyonight" alt="Top Langs" />
-</a>
 <br><br><br>
 
 <!-- 9. Yılan Animasyonu (Snake) -->
