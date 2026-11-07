@@ -1,0 +1,13 @@
+name: bonsai
+on:
+  schedule:
+    - cron: '0 3 * * *'   # Her gece 03:00'te ağacı günceller
+  workflow_dispatch:      # Manuel tetikleme butonu ekler
+permissions:
+  contents: write
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: egorthinks/git-bonsai@v1
