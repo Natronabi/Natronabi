@@ -23,39 +23,35 @@
 </a>
 <br><br><br>
 
-<!-- 4. Rozetler (Trophies) -->
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Natronabi&theme=radical&margin-w=15)](https://github.com/Natronabi)
-
-<br><br>
-
-<!-- 5. Yetenekler Başlığı -->
+<!-- 4. Yetenekler Başlığı -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=800&height=60&lines=TECH+STACK+%26+TOOLS" alt="Tech Stack Header" />
 <br>
 
-<!-- 6. Teknoloji İkonları -->
+<!-- 5. Teknoloji İkonları -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,godot,unity,linux,kali,arduino,raspberrypi,vscode,github,cmake&perline=6" alt="Tech Stack" />
+</a>
+<br><br><br>
 
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,cs,python,godot,unity,linux,kali,arduino,raspberrypi,vscode,github,cmake&perline=6)](https://skillicons.dev)
-
-<br><br>
-
-<!-- 7. Hareketli Gökkuşağı Çizgisi -->
+<!-- 6. Hareketli Gökkuşağı Çizgisi -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider">
 <br><br>
 
-<!-- 8. İstatistikler Başlığı -->
+<!-- 7. İstatistikler Başlığı -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=GITHUB+STATS" alt="Stats Header" />
 <br>
 
-<!-- 9. İstatistikler ve Diller -->
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natronabi&show_icons=true&theme=tokyonight)](https://github.com/Natronabi)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natronabi&layout=compact&theme=tokyonight)](https://github.com/Natronabi)
-
+<!-- 8. İstatistikler ve Diller -->
+<a href="https://github.com/Natronabi">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natronabi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
+<br><br>
+<a href="https://github.com/Natronabi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natronabi&layout=compact&theme=tokyonight" alt="Top Langs" />
+</a>
 <br><br><br>
 
-<!-- 10. Yılan Animasyonu (Snake) -->
+<!-- 9. Yılan Animasyonu (Snake) -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=32C5FF&center=true&vCenter=true&width=800&height=60&lines=CONTRIBUTION+SNAKE" alt="Snake Header" />
 <br>
 <a href="https://github.com/Natronabi">
