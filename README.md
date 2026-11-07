@@ -75,11 +75,6 @@
 
 <br><br><br>
 
-<!-- 12. 3D İzometrik Şehir -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=30&amp;duration=4000&amp;pause=1000&amp;color=FF0055&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=3D+CONTRIBUTION+CITY" alt="3D City Header" />
-<br>
-<a href="https://github.com/Natronabi">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution City" />
-</a>
+
 
 </div>
