@@ -1,55 +1,67 @@
 <div align="center">
 
-<!-- Ana Başlık -->
+<!-- 1. Ana Başlık (Yavaş ve Ağır Yazan Harfler) -->
 <a href="https://github.com/Natronabi">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=5000&pause=1000&color=00F0FF;FF0055;00FF00&center=true&vCenter=true&width=800&height=80&lines=HELLO+WORLD;I'M+%C5%9EURZAN+AL%C4%B0;SOFTWARE+ENGINEER" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=900&amp;size=45&amp;duration=5000&amp;pause=1000&amp;color=00F0FF;FF0055;00FF00&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=80&amp;lines=HELLO+WORLD;I'M+%C5%9EURZAN+AL%C4%B0;SOFTWARE+ENGINEER" alt="Header" />
 </a>
 
-<!-- Alt Başlık -->
+<!-- 2. Alt Başlık (Hızlı Akan Renkli Harfler) -->
 <a href="https://github.com/Natronabi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=F7B500;B620E0;32C5FF&center=true&vCenter=true&width=800&height=50&lines=Building+Engines+in+C%2B%2B...;Developing+Edge+AI+Systems...;Crafting+2D%2F3D+Games...;Hacking+with+Kali+Linux..." alt="Sub-header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2000&amp;pause=500&amp;color=F7B500;B620E0;32C5FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Building+Engines+in+C%2B%2B...;Developing+Edge+AI+Systems...;Crafting+2D%2F3D+Games...;Hacking+with+Kali+Linux..." alt="Sub-header" />
 </a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-</div>
-
-<!-- Trophies / Rozetler (Markdown Formatına Çevrildi) -->
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Natronabi&theme=radical&animation=true&margin-w=15)](https://github.com/Natronabi)
-
-</div>
 <br>
 
-<div align="center">
+<!-- 3. Hareketli Gökkuşağı Çizgisi -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider">
 
-<!-- Yetenekler Başlığı -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=800&height=60&lines=TECH+STACK+%26+TOOLS" alt="Tech Stack Header" />
+<br><br>
 
-</div>
+<!-- 4. Git Bonsai (Dinamik Büyüyen Ağaç) -->
+<a href="https://github.com/egorthinks/git-bonsai">
+  <img src="output/bonsai-growth.gif" width="384" alt="My GitHub Bonsai" />
+</a>
+<br>
+<a href="https://github.com/egorthinks/git-bonsai">
+  <img src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f?style=flat-square" alt="Grown with Git Bonsai" />
+</a>
 
-<!-- Teknoloji İkonları (Markdown Formatına Çevrildi) -->
-<div align="center">
+<br><br><br>
 
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,cs,python,godot,unity,linux,kali,arduino,raspberrypi,vscode,github,cmake&perline=6)](https://skillicons.dev)
+<!-- 5. Rozetler (Trophies) -->
+<a href="https://github.com/Natronabi">
+  <img src="https://github-profile-trophy.vercel.app/?username=Natronabi&amp;theme=radical&amp;animation=true&amp;margin-w=15&amp;v=1" alt="Trophies" />
+</a>
 
-</div>
+<br><br>
+
+<!-- 6. Yetenekler Başlığı (Ağır Yazım) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=30&amp;duration=4000&amp;pause=1000&amp;color=FF0055&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=TECH+STACK+%26+TOOLS" alt="Tech Stack Header" />
 <br>
 
-<div align="center">
+<!-- 7. Teknoloji İkonları -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,godot,unity,linux,kali,arduino,raspberrypi,vscode,github,cmake&amp;perline=6" alt="Tech Stack" />
+</a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br><br><br>
 
-<!-- İstatistikler Başlığı -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=GITHUB+STATS" alt="Stats Header" />
+<!-- 8. Hareketli Gökkuşağı Çizgisi -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="divider">
 
-</div>
+<br><br>
 
-<!-- İstatistik Kartları (Markdown Formatına Çevrildi) -->
-<div align="center">
+<!-- 9. İstatistikler Başlığı (Ağır Yazım) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=30&amp;duration=4000&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=GITHUB+STATS" alt="Stats Header" />
+<br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natronabi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF0055)](https://github.com/Natronabi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natronabi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF)](https://github.com/Natronabi)
+<!-- 10. İstatistikler ve Diller -->
+<a href="https://github.com/Natronabi">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natronabi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;text_color=FFFFFF&amp;icon_color=FF0055&amp;v=1" alt="GitHub Stats" />
+</a>
+<br><br>
+<a href="https://github.com/Natronabi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natronabi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;text_color=FFFFFF&amp;v=1" alt="Top Langs" />
+</a>
 
 </div>
