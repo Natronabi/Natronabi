@@ -64,4 +64,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natronabi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;text_color=FFFFFF&amp;v=1" alt="Top Langs" />
 </a>
 
+<br><br><br>
+
+<!-- 11. Yılan Animasyonu (Snake) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=30&amp;duration=4000&amp;pause=1000&amp;color=32C5FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=CONTRIBUTION+SNAKE" alt="Snake Header" />
+<br>
+<a href="https://github.com/Natronabi">
+  <img src="snake/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</a>
+
+<br><br><br>
+
+<!-- 12. 3D İzometrik Şehir -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=30&amp;duration=4000&amp;pause=1000&amp;color=FF0055&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=3D+CONTRIBUTION+CITY" alt="3D City Header" />
+<br>
+<a href="https://github.com/Natronabi">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution City" />
+</a>
+
 </div>
